@@ -1,5 +1,5 @@
 # kicad-footprints
-Libraires d'empreintes Kicad pour les projets conçus sur projetg5.com
+Librairies d'empreintes Kicad pour les projets conçus sur projetg5.com
 
 Pour contribuer, je vous invite à suivre le tuto sur la création d'empreinte pour KiCad :
 
