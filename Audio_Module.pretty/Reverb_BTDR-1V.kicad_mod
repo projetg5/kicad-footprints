@@ -1,4 +1,4 @@
-(module Reverb_BTDR-1V (layer F.Cu) (tedit 5C594312)
+(module Reverb_BTDR-1V (layer F.Cu) (tedit 5EAD96DF)
   (descr http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf)
   (tags "audio belton reverb")
   (fp_text reference REF** (at 59.45 10.25 180) (layer F.SilkS)
@@ -39,7 +39,7 @@
   (pad 5 thru_hole circle (at 50.62 0) (size 2 2) (drill 1) (layers *.Cu *.Mask))
   (pad 6 thru_hole circle (at 53.16 0) (size 2 2) (drill 1) (layers *.Cu *.Mask))
   (pad 7 thru_hole circle (at 55.7 0) (size 2 2) (drill 1) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Reverb_Belton.3dshapes/Reverb_BTDR-1V.wrl
+  (model ${KISYS3DMOD}/Audio_Module.3dshapes/Reverb_BTDR-1V.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
